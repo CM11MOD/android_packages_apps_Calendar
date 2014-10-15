@@ -18,8 +18,8 @@ package com.android.calendar;
 
 import com.android.calendar.CalendarController.ViewType;
 
-import org.mokee.util.Lunar;
-import org.mokee.util.MoKeeUtils;
+import android.mokee.util.Lunar;
+import android.mokee.util.MoKeeUtils;
 
 import android.content.Context;
 import android.os.Handler;
